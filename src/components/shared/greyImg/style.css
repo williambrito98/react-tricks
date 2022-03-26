@@ -1,0 +1,9 @@
+img {
+    width: 300px;
+    filter: grayscale(100%);
+}
+
+.bg-grey {
+    background-color: gray;
+    border: 1px solid red;
+}
